@@ -1,25 +1,9 @@
-# README
+**起動方法**
+1, gem をインストールします。
+bundle install
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+2,サーバーを立ち上げます。
+rails s
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-app
+- サーバーが立ち上がらなかった場合は、ruby のバージョンの確認を行ってください
+  ruby 3,2,0 で行っているのでローカルのバージョンを合わせてください。
