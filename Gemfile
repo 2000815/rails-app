@@ -15,6 +15,8 @@ gem "puma", "~> 5.0"
 
 gem 'httpclient'
 
+gem "dotenv-rails"
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
